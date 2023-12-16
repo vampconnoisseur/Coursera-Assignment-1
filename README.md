@@ -1,1 +1,1 @@
-This is my first assignment for coursera web dev course.
+This is my second assignment for coursera web dev course.
